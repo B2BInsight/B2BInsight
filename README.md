@@ -23,7 +23,7 @@
 
 ## 🛠️ Our Tech Arsenal
 
-<div align="center">
+
 
 | 🏢 Infrastructure | 🔒 Security | 🤝 Collaboration | 🧠 Intelligence |
 |:-----------------:|:-----------:|:----------------:|:---------------:|
@@ -32,7 +32,7 @@
 | Docker | GoTeleport | Plane.so | AI-Driven Insights |
 | Ubuntu Servers | Vaultwarden | CV Creator | PDF Wizardry |
 
-</div>
+
 
 ---
 
@@ -54,7 +54,7 @@ User ─► Cloudflare Zero Trust ─► Application Layer
 
 ## 🌈 Open Source: We Give Back
 
-<div align="center">
+
 
 | 📦 Projects | 🌟 Stars | 🤝 Contributors |
 |:-----------:|:--------:|:---------------:|
@@ -62,7 +62,7 @@ User ─► Cloudflare Zero Trust ─► Application Layer
 | Data-Cruncher-9000 | 3.5k | 142 |
 | AI-Market-Predictor | 2.8k | 103 |
 
-</div>
+
 
 Join the revolution! Contribute today and help shape the future of financial tech.
 
