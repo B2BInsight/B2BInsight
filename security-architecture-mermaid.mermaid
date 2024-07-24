@@ -1,0 +1,6 @@
+graph TD
+    A[User] -->|Zero Trust| B{Cloudflare}
+    B -->|WAF| C[Application Layer]
+    C -->|GoTeleport| D[Server Access]
+    C -->|Wazuh SIEM| E[Threat Detection]
+    C -->|2FA| F[User Authentication]
