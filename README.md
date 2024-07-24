@@ -8,13 +8,13 @@
 </div>
 
 ---
-<div align="center">
-> 💡 "In the labyrinth of financial data, we are your guiding light." - CEO, B2B Insight
-</div>
----
-<div align="center">
-## 🌟 Our Mission
 
+> 💡 "In the labyrinth of financial data, we are your guiding light." - CEO, B2B Insight
+
+---
+
+## 🌟 Our Mission
+<div align="center">
 | Analyze 📈 | Innovate 💡 | Empower 💪 |
 |:----------:|:-----------:|:----------:|
 | Cutting-edge financial research | Pioneering tech solutions | Informed investment decisions |
