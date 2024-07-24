@@ -14,11 +14,11 @@
 ---
 
 ## 🌟 Our Mission
-<div align="center">
+
 | Analyze 📈 | Innovate 💡 | Empower 💪 |
 |:----------:|:-----------:|:----------:|
 | Cutting-edge financial research | Pioneering tech solutions | Informed investment decisions |
-</div>
+
 ---
 
 ## 🛠️ Our Tech Arsenal
